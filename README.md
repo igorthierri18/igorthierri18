@@ -1,19 +1,5 @@
-### Hi there 👋
-
 <!--
 **igorthierri18/igorthierri18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Olá, sou Igor Thierri ✋
 Estou há 5 anos atuando na área de BI e 4 anos em programação
@@ -45,4 +31,6 @@ Estou há 5 anos atuando na área de BI e 4 anos em programação
 
 [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+
+-->
 	
