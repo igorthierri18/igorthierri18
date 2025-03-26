@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá, sou Igor Thierri ✋
-Estou há 5 anos atuando na área de BI e 4 anos em programação
+6 anos atuando na área de Engenharia de Dados e Devops.
 
 [![Portfólio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGQ4OTMyZTEtZmFmMS00NTJhLWIzNzgtYTU5ZTc0MDM1NTc1IiwidCI6ImI1MzBiMGRmLWZiMmEtNDZlMC1hMTY4LTQwNWZjY2NmMWE5NCJ9&pageName=ReportSection)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bit.ly/3qIIkNo)
